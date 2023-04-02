@@ -197,7 +197,7 @@
             "cantfinduser": "*This user already removed/left*",
             "ISOWNER": "*You can't kick group owner!*",
             "noBanMe": "*Can't kick bot number!*",
-            "noBanOwners":"*👑 Can't kick Queen Amdi developer team!*",
+            "noBanOwners":"*👑 Can't kick 🔱...𝑴𝑬𝑫𝑶..🐉 developer team!*",
             "kicked": "*kicked out of the group!*",
             "addDESC": "Add an user to the group.",
             "addEX": ".add 947xxxxxxxx",
@@ -223,8 +223,8 @@
             "LOCKED": "*🔒 Group info change option locked!*",
             "UNLOCKGRP_DESC": "Unlock group info change option",
             "UNLOCKED": "*🔓 Group info change option unlocked!*",
-            "revokeDESC": "Revoke the group invite link.",
-            "REVOKED": "🔁 *{} invite link revoked!*",
+            
+           
             "SUBJECTDESC": "Change group name.",
             "subEX": ".subject your_text",
             "NEED_SUB": "Please give me a group name.",
@@ -247,7 +247,8 @@
             "GRP_NAME": "*ℹ️ Group name :*",
             "GRP_JID": "*💬 Group JID :*",
             "GRP_OWN": "*⚜️ Group owner :*",
-            "GRP_COD": "*🆔 Group invite link :*",
+
+  
             "GRP_DES": "*🗨️ Group description :*",
             "PRO_JID": "*💬 User JID :*",
             "ADMIN_COUNT": "*👑 Admin Count:*",
@@ -301,14 +302,14 @@
         },
         "settings": {
             "setDesc": "Change the main settings of bot.",
-            "setListTitle": "⚙️ Queen Amdi Settings List",
+            "setListTitle": "⚙️ Shanks Settings List",
             "setListText": "You can change settings by using this list easily.",
             "alreadySetted": "*❗This setting is already setted.*",
             "alreadyAdded": "*❗This data already added.*",
             "settingAdded": " *setting changed!*",
             "dataAdded": " *{}* is added as *{}!*",
             "needReplymsg":"*Please reply to a message*",
-            "applyTitle": "🗃️ Queen Amdi Customizer",
+            "applyTitle": "🗃️ Shanks Customizer",
             "applyText": "You can customize captions, processing messages, button messages style and button message links.",
             "alreadyCustomized": "*❗This button/template is already customized.*",
             "customAdded": " *customized!*",
@@ -333,7 +334,7 @@
             "giveSTICKER": "*Please reply to a sticker!*",
             "STICINFODESC": "Get sticker information. (Pack name & Author)",
             "NOSTICKER": "*Please give me a sticker!*",
-            "STICINFO": "*---Sticker Pack Info---*\n\n📝 *Pack name:* {}\n👤 *Author:* {}",
+            "STICINFO": "*---Sticker Pack Info---*\n\n📝 *Pack name:* {Shanks}\n👤 *Author:* {🔱...𝑴𝑬𝑫𝑶..🐉}",
             "STICPACKDESC": "Make sticker pack from a ZIPPED images and video set.",
             "STICZIP": "*Please give me a ZIP file with images/videos/gif!*",
             "CHECKURDM": "*Please check your inbox messages. Stickers have been sent to private chat🤗*",
@@ -364,8 +365,7 @@
             "TAGGRPEX": ".taggrp jid_address - And reply to the text",
             "GIVEMEJID": "*Please give a JID!*",
             "GIVEMETEXT": "*Please reply to a text message!*",
-            "tagadmDESC": "Tag all admins in the group.",
-            "tagadmEX": ".tagadmin | .tagadmin text | .tagadmin [reply to a message]"
+            
         },
         "votepolls": {
             "voteDESC": "Create a vote poll.",
